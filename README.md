@@ -1,5 +1,5 @@
-- Support for english and portuguese brazilian 🇧🇷 <img width="30" height="20" alt="flag br" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">
-- Suporte para inglês e português brasileiro 🇺🇸 <img width="30" height="20" alt="flag us" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">
+- Suporte para Inglês e Português Brasileiro 🇧🇷 <img width="30" height="20" alt="flag br" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg">
+- Support for English and Brazilian Portuguese 🇺🇸 <img width="30" height="20" alt="flag us" src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg">
 
 # 🧠 Exercícios de Nomes Significativos em Código Java
 
